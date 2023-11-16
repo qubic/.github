@@ -1,1 +1,1 @@
-# Qubic Network
+# Qubic
