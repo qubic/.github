@@ -8,7 +8,7 @@ Website: https://qubic.org
 
 Discord: https://discord.gg/qubic
 
-X/Twitter: https://twitter.com/_Qubic_
+X/Twitter: [https://twitter.com/_Qubic_](https://twitter.com/_Qubic_)
 
 Telegram: https://t.me/qubic_network
 
