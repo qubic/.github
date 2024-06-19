@@ -1,7 +1,8 @@
 # Hello Qubic!  👋
 Qubic, based on Quorum consensus, serves as a platform for smart contracts, oracles, and outsourced computations. Operating on a feeless model, Qubic eliminates transaction fees. The network is supported by a useful Proof of Work mechanism aimed at fostering the development of Artificial General Intelligence (AGI).
 
-For further insights into Qubic, explore the documentation at https://docs.qubic.world
+For further insights into Qubic, explore the documentation at https://docs.qubic.org
+
 ## Connect to us
 
 Website: https://qubic.org
